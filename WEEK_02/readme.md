@@ -5,7 +5,12 @@ Deze opdracht beslaat meerdere weken, het eindproduct is een aantal programma wa
 ### Week 1.
 ```
 1. Maak classes voor: 
-sandwich, coffee, cake, soup, order.
+   * sandwich
+   * coffee
+   * cake
+   * soup
+   * order
+   
 2. In elke class komt een constructor en voor elke variabele een getter en een setter.
 ```
 
