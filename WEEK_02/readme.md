@@ -5,13 +5,19 @@ Deze opdracht beslaat meerdere weken, het eindproduct is een aantal programma wa
 ### Week 1.
 ```
 1. Maak classes voor: 
-   * sandwich
-   * coffee
-   * cake
-   * soup
-   * order
+   
+   sandwich
+   coffee
+   cake
+   soup
+   order
    
 2. In elke class komt een constructor en voor elke variabele een getter en een setter.
+
+3. Je test elke method van een class door het resultaat naar het scherm (console) te laten printen.
+   Zie ook de beschrijving van de order class, als je een object aanmaakt gaat dit via de order class.
+
+
 ```
 
 ## SANDWICH 
@@ -47,6 +53,8 @@ variabelen
 ## ORDER
 De order class is voor het opnemen en doorgeven van de bestelling, alle logica komt hierin te staan.
 ```
-
-
+variabelen
+- tafelnummer (tafelnummer waarvoor de bestelling wordt opgenomen, er zijn 15 tafels, genummerd van 1 t/m 15)
+- 
+- 
 ```
