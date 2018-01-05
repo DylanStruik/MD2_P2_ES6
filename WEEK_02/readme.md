@@ -1,7 +1,8 @@
 
 Deze opdracht beslaat meerdere weken,   
-het eindproduct is een aantal programma waarmee je de bestellingen. 
-in een lunchroom kunt maken.
+het eindproduct is een programma waarmee je de bestellingen. 
+in een lunchroom kunt opnemen en doorgeven.
+
 
 ---
 ### Week 1.
@@ -14,16 +15,14 @@ in een lunchroom kunt maken.
    soup
    order
    
-2. In elke class komt een constructor.
+2. Elke class heeft een constructor.
    Maak voor elke variabele een getter en een setter.
 
-3. Je test elke method van een class.
+3. Je test elke class en elke method van een class.
    Je laat dit zien door het resultaat van je test. 
    naar het scherm (console) te laten printen.
    Zie ook de beschrijving van de order class,   
    als je een object aanmaakt gaat dit via de order class.
-
-
 ```
 
 ## SANDWICH 
