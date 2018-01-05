@@ -2,9 +2,12 @@
 Deze opdracht beslaat meerdere weken, het eindproduct is een aantal programma waarmee je de bestellingen in een lunchroom kunt maken.
 
 ...
-Week 1.
-Maak classes voor: ```sandwich, coffee, cake, soup, order```.
-
+### Week 1.
+```
+1. Maak classes voor: 
+sandwich, coffee, cake, soup, order.
+2. In elke class komt een constructor en voor elke variabele een getter en een setter.
+```
 
 ## SANDWICH 
 ``` 
@@ -34,5 +37,11 @@ variabelen
 - naam        (naam van de soep)
 - grootte     (soep kan in verschillende hoeveelheden besteld worden, 1 = normaal, 2 = groot. Standaard = normaal)
 - maaltijdsoep(geeft aan of het een volwaardige maaltijd is.
+```
+
+## ORDER
+De order class is voor het opnemen en doorgeven van de bestelling, alle logica komt hierin te staan.
+```
+
 
 ```
