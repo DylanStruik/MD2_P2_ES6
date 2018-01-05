@@ -1,9 +1,9 @@
 
-Deze opdracht beslaat meerdere weken, 
-het eindproduct is een aantal programma waarmee je de bestellingen 
+Deze opdracht beslaat meerdere weken,   
+het eindproduct is een aantal programma waarmee je de bestellingen. 
 in een lunchroom kunt maken.
 
-...
+---
 ### Week 1.
 ```
 1. Maak classes voor: 
@@ -18,9 +18,9 @@ in een lunchroom kunt maken.
    Maak voor elke variabele een getter en een setter.
 
 3. Je test elke method van een class.
-   Je laat dit zien door het resultaat van je test
-   naar het scherm (console) te laten printen.
-   Zie ook de beschrijving van de order class, 
+   Je laat dit zien door het resultaat van je test. 
+   naar het scherm (console) te laten printen.
+   Zie ook de beschrijving van de order class,   
    als je een object aanmaakt gaat dit via de order class.
 
 
@@ -38,7 +38,7 @@ variabelen
 ```
 variabelen
 - naam        (koffie, bijv cappucino, espresso, ...)
-- grootte     (een koffie kan in 3 groottes besteld worden, 
+- grootte     (een koffie kan in 3 groottes besteld worden,   
                1 = klein, 2 = normaal, 3 = groot. 
                Standaard is normaal)
 ```
@@ -55,18 +55,18 @@ variabelen
 ```
 variabelen
 - naam        (naam van de soep)
-- grootte     (soep kan in verschillende hoeveelheden besteld worden, 
+- grootte     (soep kan in verschillende hoeveelheden besteld worden,   
                1 = normaal, 2 = groot. 
                Standaard is normaal)
 - maaltijdsoep(geeft aan of het een volwaardige maaltijd is.
 ```
 
 ## ORDER
-De order class is voor het opnemen en doorgeven van de bestelling, 
+De order class is voor het opnemen en doorgeven van de bestelling,   
 alle logica komt hierin te staan.
 ```
 variabelen
-- tafelnummer (tafelnummer waarvoor de bestelling wordt opgenomen, 
+- tafelnummer (tafelnummer waarvoor de bestelling wordt opgenomen,   
   er zijn 15 tafels, genummerd van 1 t/m 15)
 - 
 - 
