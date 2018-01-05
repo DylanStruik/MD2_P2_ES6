@@ -5,26 +5,28 @@ Maak classes voor: ```sandwich, coffee, cake, soup, order```.
 
 
 ``` 
-SANDWICH 
+#SANDWICH 
 variabelen
 - naam        (sandwich)
 - beleg       (meerdere belegsoorten per sandwich mogelijk)
 - glutenvrij  (geeft aan of de sandwich glutenvrij is)
 
-
-COFFEE
+#COFFEE
 variabelen
 - naam        (koffie, bijv cappucino, espresso, ...)
-- grootte     (een koffie kan in 3 groottes besteld worden, 1 = klein, 2 = normaal, 3 = groot. Default = normaal)
+- grootte     (een koffie kan in 3 groottes besteld worden, 1 = klein, 2 = normaal, 3 = groot. Standaar = normaal)
 
-CAKE
+#CAKE
 variabelen
 - naam        (naam van het gebak)
 - suikervrij  (geeft aan of het suikervrij gebak betreft)
 
-SOUP
+#SOUP
 variabelen
-- naam
-- 
+- naam        (naam van de soep)
+- grootte     (soep kan in verschillende hoeveelheden besteld worden, 1 = normaal, 2 = groot. Standaard = normaal)
+- maaltijdsoep(geeft aan of het een volwaardige maaltijd is.
+
+
 
 ```
