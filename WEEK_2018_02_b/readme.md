@@ -25,7 +25,18 @@ De lunchroom.js bevat een voorbeeldfunctie waarmee je aan een button een eventsl
  2. this.classlist.toggle('choose') voegt de style toe of verwijdert deze als die al bestaat.
     Lees de documentatie door voor CSS toggle (https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
     
-3.  Lees ook de documentatie voor getElementsByName en getElementsByClassName door
+3.  Lees ook de documentatie voor getElementsByName en getElementsByClassName door.
+
+4.  De functie die je nu maakt moet meer dan alleen het koppelen van de button aan de 
+    eventlistener, je moet namelijk alleen die ene button die je geklikt hebt actief maken.
+    De andere buttons moeten dus uncheckt worden. 
+    Maak hier een functie voor.
+    
+5.  Maak een extra button voor de bestelling, zodra je hier op klikt 
+    wordt de text actieve coffee button naar de console geprint.
+    
+6. 
+
 
 
     
