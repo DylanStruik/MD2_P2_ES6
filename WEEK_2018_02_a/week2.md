@@ -3,7 +3,7 @@
 ### Week 2.
 
 Dit is het vervolg op de classes die je in week 1 gemaakt hebt.   
-Je gaat nu alle eerder gemaakte classes testen. De order class is de regelaar van alle bestellingen, vanuit deze order class maak je bestellingen en test je of alle methods in de sandwich, coffee, cake en soup classes werken.
+Je gaat nu alle eerder gemaakte classes testen. De order class is de regelaar van alle bestellingen, vanuit deze order class maak je de bestellingen en test je of alle methods in de sandwich, coffee, cake en soup classes werken.
 
 Je komt erachter dat je ook je voorraad moet bijhouden van alle producten die je verkoopt, het is namelijk noodzakelijk dat je op het moment van bestellen al weet of je het gevraagde kunt aanbieden.
 
@@ -31,7 +31,10 @@ in verband met onderhoud, doorspoelen van leidingen, bijvullen van ingredienten.
 - Methods voor het bijwerken van de voorraad.
 ```
 
-## Opmerking
+## Opmerking json
 Lokale bestanden kunnen niet gewijzigd met JavaScript, dat geldt dus ook voor je voorraad JSON bestand. Hiervoor moet je het bestand op een server zetten en benaderen met bijv. PHP.
 
 Je kunt het ook in je programma doen voor testen maar dan zijn na afsluiten van je browser al je bestel- en voorraadgegevens weer weg.
+
+## Opmerking Voorraad
+Wat je gaat aanbieden is belangrijk, het gaat nu om welke soorten koffie, wat voor cake, taarten en soepen. Dit heeft gevolgen voor al je classes en methods.
