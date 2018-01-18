@@ -23,3 +23,15 @@ in verband met onderhoud, doorspoelen van leidingen, bijvullen van ingredienten.
    
 ```
    
+## VOORRAAD
+```
+- Methods voor het opvragen van een bepaalde voorraad, bijv voor soup.
+- Methods voor het teruggeven van de voorraad aan de Order class. 
+- Methods voor het lezen van de voorraad uit de JSON.
+- Methods voor het bijwerken van de voorraad.
+```
+
+## Opmerking
+Lokale bestanden kunnen niet gewijzigd met JavaScript, dat geldt dus ook voor je voorraad JSON bestand. Hiervoor moet je het bestand op een server zetten en benaderen met bijv. PHP.
+
+Je kunt het ook in je programma doen voor testen maar dan zijn na afsluiten van je browser al je bestel- en voorraadgegevens weer weg.
