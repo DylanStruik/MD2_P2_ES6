@@ -17,5 +17,9 @@ in verband met onderhoud, doorspoelen van leidingen, bijvullen van ingredienten.
    VoorraadController
    
 3. Maak een JSON bestand aan voor de voorraad van diverse producten.
+
+4. Maak een JSON bestand aan waarin wordt bijgehouden hoevaak het koffiezetapparaat
+   gebruikt is vanaf het laatste onderhoud dat gepleegd is. 
+   
 ```
    
